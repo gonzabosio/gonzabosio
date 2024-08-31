@@ -9,7 +9,7 @@
 * 🧠  I'm currently learning AWS
 <h4>📫 How to reach me:</h4>
 &nbsp;
-<a margin-bottom=20 href="https://www.linkedin.com/in/gonzalo-andres-bosio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalobosio-linkedin" align="center" width=32></img></a>
+<a margin-bottom=20 href="https://www.linkedin.com/in/gonzalo-andres-bosio" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalobosio-linkedin" align="center" width=32></img></a>
 
 <h3>Languages and Tools</h3> 
 
