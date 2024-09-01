@@ -1,6 +1,5 @@
 <h2>Hi, I'm Gonzalo!</h2>
 
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/045c3e8b67b93b2677f593f7962ad0b838cd0f8a764c9649e590c63771e6ddab/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966" width=100></img>
 * 💻 **I'm backend developer**
 
 * 📚 Advanced student in Programming Technical Degree at Universidad Tecnológica Nacional
