@@ -6,9 +6,6 @@
 
 * 🌍  I'm based in Argentina
 * 🧠  I'm currently learning AWS
-<h4>📫 How to reach me:</h4>
-&nbsp;
-<a href="https://www.linkedin.com/in/gonzalo-andres-bosio"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalobosio-linkedin" align="center" width=32></img></a>
 
 <h3>Languages and Tools</h3> 
 
