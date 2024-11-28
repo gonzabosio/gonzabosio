@@ -5,7 +5,7 @@
 * 📚 Advanced student in Programming Technical Degree at Universidad Tecnológica Nacional
 
 * 🌍  I'm based in Argentina
-* 🧠  I'm currently learning AWS
+* 🧠  I'm currently learning RabbitMQ and gRPC
 
 <h3>Languages and Tools</h3> 
 
