@@ -1,5 +1,5 @@
 <h2>Hi, I'm Gonzalo!</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="xml-gif" width="120" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="xml-gif" width="110" align="right">
 <ul>
   <li>💻 <strong>I'm a backend developer</strong></li>
   <li>📚 Advanced student in Programming Technical Degree at Universidad Tecnológica Nacional</li>
