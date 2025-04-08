@@ -2,9 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="xml-gif" width="110" align="right">
 <ul>
   <li>💻 <strong>I'm a backend developer</strong></li>
-  <li>📚 Advanced student in Programming Technical Degree at Universidad Tecnológica Nacional</li>
+  <li>📚 Graduated of Programming Technical Degree at Universidad Tecnológica Nacional</li>
   <li>🌍 I'm based in Argentina</li>
-  <li>🧠 I'm currently learning RabbitMQ and gRPC</li>
 </ul>
 
 <h3>Languages and Tools</h3> 
@@ -22,5 +21,3 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker" title="Docker"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="Amazon Web Services" title="AmazonWebServices"/></a>
-
