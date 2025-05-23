@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="xml-gif" width="110" align="right">
 <ul>
   <li>💻 <strong>I'm a backend developer</strong></li>
-  <li>📚 Graduated of Programming Technical Degree at Universidad Tecnológica Nacional</li>
+  <li>📚 Graduated of Associate Degree in Programming at Universidad Tecnológica Nacional</li>
   <li>🌍 I'm based in Argentina</li>
 </ul>
 
